@@ -9,7 +9,9 @@
 <p align="center">
   A passionate Frontend Developer from Philippines 🇵🇭
 </p>
-                             ## 🌅 A Happy Childhood ##
+<p align="center">
+   ## 🌅 A Happy Childhood ##
+</p>
 <p align="center">
   <img src="FB_IMG_1771684336091.jpg" width="400" style="border-radius:15px;">
 </p>
