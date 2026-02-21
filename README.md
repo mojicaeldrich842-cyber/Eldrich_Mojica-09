@@ -9,7 +9,6 @@
 <p align="center">
   A passionate Frontend Developer from Philippines 🇵🇭
 </p>
-"FB_IMG_1771684330818.
 ---
 
 ## 🌅 A Happy Childhood
