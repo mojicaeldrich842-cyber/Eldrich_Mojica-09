@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="hi-photo.jpg" width="250" style="border-radius:15px;">
+  <img src="FB_IMG_1771684336091.jpg="250 style="border-radius:15px;">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## 🌅 A Happy Childhood
 
 <p align="center">
-  <img src="childhood-photo.jpg" width="400" style="border-radius:15px;">
+  <img src="FB_IMG_1771684330818.jpg".jpg width="400" style="border-radius:15px;">
 </p>
 
 <p align="center">
