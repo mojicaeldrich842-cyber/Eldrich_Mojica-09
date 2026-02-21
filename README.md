@@ -10,52 +10,6 @@
   A passionate Frontend Developer from Philippines 🇵🇭
 </p>
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Simple Animation</title>
-
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin-top: 100px;
-            background-color: #f4f4f4;
-        }
-
-        h2 {
-            margin-bottom: 40px;
-        }
-
-        .box {
-            width: 100px;
-            height: 100px;
-            background-color: #3498db;
-            margin: auto;
-            position: relative;
-            animation: moveBox 3s infinite alternate ease-in-out;
-            border-radius: 10px;
-        }
-
-        @keyframes moveBox {
-            from {
-                left: -150px;
-            }
-            to {
-                left: 150px;
-            }
-        }
-    </style>
-</head>
-<body>
-
-    <h2>Simple Animation on GitHub Pages</h2>
-    <div class="box"></div>
-
-</body>
-</html>
-
 ## 🌅 A Happy Childhood
 
 <p align="center">
