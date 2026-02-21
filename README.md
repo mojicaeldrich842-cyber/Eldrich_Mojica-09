@@ -11,7 +11,7 @@
 </p>
 ---
                         ## 🌅 A Happy Childhood ##
-<p align="center"
+<p align="center">
   <img src="FB_IMG_1771684336091.jpg" width="400" style="border-radius:15px;">
 </p>
 
